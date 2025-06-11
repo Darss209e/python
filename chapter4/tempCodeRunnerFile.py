@@ -1,0 +1,1 @@
+friends=["apple","orange",5,3.040,"false","akash"]
