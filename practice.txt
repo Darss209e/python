@@ -1,0 +1,4 @@
+HI everyone 
+We are learningf file I\O
+using python
+i like programming in python.

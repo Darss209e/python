@@ -1,4 +1,12 @@
-with open("practice.txt","w") as f:
-    f.write("HI everyone \nWe are learningf file I\O\n")
-    f.write("using java\ni like programming in java.")
-    
+def find_word():
+    word = "learning"
+    with open("practice.txt","r") as f:
+        data = f.read()
+        if(data.find(word)!= -1):
+            print("found")
+        else:
+            print("not found")
+
+
+
+
