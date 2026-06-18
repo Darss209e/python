@@ -1,2 +1,1 @@
-gym,False
-fun,False
+darshan is a boy,True
